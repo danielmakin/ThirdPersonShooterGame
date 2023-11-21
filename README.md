@@ -18,3 +18,5 @@ Future Improvements :
 * Implement a way for the AI agent to attack the player and implement player health.
 
 Notable C# scripts are located in *OnlineModelsURP Y/Assets/Scripts*
+
+Based on tutorial series by *TheKiwiCoder* on YouTube.<br>
